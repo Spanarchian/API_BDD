@@ -1,4 +1,4 @@
-# The test bed for Python BDD tests for Karhoo #
+# The test bed for Python BDD tests
 
 * Features 
 * Steps
